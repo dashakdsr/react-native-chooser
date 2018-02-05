@@ -1,33 +1,62 @@
-
 {
-  "name": "react-native-chooser",
-  "version": "1.7.0",
+  "_args": [
+    [
+      "react-native-chooser@1.6.3",
+      "/Users/darakiricenko/Documents/Projects/kavo_application"
+    ]
+  ],
+  "_from": "react-native-chooser@1.6.3",
+  "_id": "react-native-chooser@1.6.3",
+  "_inBundle": false,
+  "_integrity": "sha512-u22dwBes0ra60bCV8TcJ4T1ObFSeNQY++p3LnTNtCdT6SvmiaSBS01C/4Mwt38dqacwgNvckD96oIPqHjLCeZg==",
+  "_location": "/react-native-chooser",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-chooser@1.6.3",
+    "name": "react-native-chooser",
+    "escapedName": "react-native-chooser",
+    "rawSpec": "1.6.3",
+    "saveSpec": null,
+    "fetchSpec": "1.6.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-chooser/-/react-native-chooser-1.6.3.tgz",
+  "_spec": "1.6.3",
+  "_where": "/Users/darakiricenko/Documents/Projects/kavo_application",
+  "author": {
+    "name": "Azhar"
+  },
+  "bugs": {
+    "url": "https://github.com/gs-akhan/react-native-chooser/issues"
+  },
   "description": "Simple Cross platform SELECT tag for React-Native",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {
+    "prop-types": "^15.5.10",
+    "react": "16.0.0-alpha.12"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gs-akhan/react-native-chooser.git"
-  },
+  "homepage": "https://github.com/gs-akhan/react-native-chooser#readme",
   "keywords": [
     "react-native",
     "chooser",
     "select",
     "picker"
   ],
-  "author": "Azhar",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gs-akhan/react-native-chooser/issues"
-  },
-  "homepage": "https://github.com/gs-akhan/react-native-chooser#readme",
+  "main": "index.js",
+  "name": "react-native-chooser",
   "peerDependencies": {
     "prop-types": "^15.5.10"
   },
-  "devDependencies": {
-    "react": "16.0.0-alpha.12",
-    "prop-types": "^15.5.10"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gs-akhan/react-native-chooser.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.6.3"
 }
